@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\git\daniel.barriofierro\temp\topics?><?workdir-uri file:/C:/git/daniel.barriofierro/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c_my_first_topic" specializations="@props/deliveryTarget" xtrc="concept:1;2:32" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">
+    <title class="- topic/title " xtrc="title:1;3:12" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">My first topic</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;4:16" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">Text</shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/git/daniel.barriofierro/my_first_map.ditamap">Daniel Barrio Fierro</author></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;5:14" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">First <ph class="- topic/ph " xtrc="ph:1;6:22" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">paragraph</ph>, and here is my <codeph class="+ topic/ph pr-d/codeph " xtrc="codeph:1;6:61" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">first codephrase</codeph>.</p>
+        <codeblock class="+ topic/pre pr-d/codeblock " id="codeblock_clj_14z_vsb" xml:space="preserve" xtrc="codeblock:1;7:47" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">&lt;concept id="c_my_first_topic"&gt;
+    &lt;title&gt;My first topic&lt;/title&gt;
+    &lt;shortdesc&gt;Text&lt;/shortdesc&gt;
+    &lt;conbody&gt;
+        &lt;p&gt;First&lt;/p&gt;
+        &lt;codeblock id="codeblock_clj_14z_vsb"/&gt;
+    &lt;/conbody&gt;
+&lt;/concept&gt;</codeblock>
+        <fig class="- topic/fig " id="fig_zwt_3wz_vsb" xtrc="fig:1;15:35" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">
+            <title class="- topic/title " xtrc="title:2;16:20" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">My image</title>
+            <image class="- topic/image " href="../images/screenshot.jpg" id="image_jkp_vwz_vsb" placement="inline" xtrc="image:1;17:76" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita"/>
+        </fig>
+        <p class="- topic/p " xtrc="p:2;19:12" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita">This is my text, here is my image inline <image class="- topic/image " href="../images/screenshot.jpg" id="image_v4y_xwz_vsb" placement="inline" scale="10" xtrc="image:2;20:84" xtrf="file:/C:/git/daniel.barriofierro/topics/c_my_first_topic.dita"/></p>
+    </conbody>
+    
+
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:4;14:64" xtrf="file:/C:/git/daniel.barriofierro/my_first_map.ditamap"><link class="- topic/link " format="dita" href="../topics/t_doing_something.dita" mapclass="- map/topicref " role="friend" scope="local" type="task" xtrc="topicref:5;17:65" xtrf="file:/C:/git/daniel.barriofierro/my_first_map.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Doing something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool " xtrc="topicref:9;33:64" xtrf="file:/C:/git/daniel.barriofierro/my_first_map.ditamap"><link class="- topic/link " format="dita" href="../topics/r_my_first_reference_topic.dita" mapclass="- map/topicref " role="friend" scope="local" type="reference" xtrc="topicref:8;30:95" xtrf="file:/C:/git/daniel.barriofierro/my_first_map.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>My first reference topic</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></concept>

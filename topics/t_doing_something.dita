@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_doing_something">
+    <title>Doing something</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step importance="optional">
+                <cmd/>
+                <stepresult/>
+            </step>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+        <result id="result_vq4_qsz_vsb"/>
+        <example id="example_tfb_btz_vsb"/>
+    </taskbody>
+</task>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_my_first_topic">
+    <title>My first topic</title>
+    <shortdesc>Text</shortdesc>
+    <conbody>
+        <p>First <ph>paragraph</ph>, and here is my <codeph>first codephrase</codeph>.</p>
+        <codeblock id="codeblock_clj_14z_vsb">&lt;concept id="c_my_first_topic">
+    &lt;title>My first topic&lt;/title>
+    &lt;shortdesc>Text&lt;/shortdesc>
+    &lt;conbody>
+        &lt;p>First&lt;/p>
+        &lt;codeblock id="codeblock_clj_14z_vsb"/>
+    &lt;/conbody>
+&lt;/concept></codeblock>
+        <fig id="fig_zwt_3wz_vsb">
+            <title>My image</title>
+            <image href="../images/screenshot.jpg" id="image_jkp_vwz_vsb"/>
+        </fig>
+        <p>This is my text, here is my image inline <image placement="inline"
+                href="../images/screenshot.jpg" scale="10" id="image_v4y_xwz_vsb"/></p>
+    </conbody>
+    <!--Another comment-->
+<!-- this is my comment-->
+</concept>
